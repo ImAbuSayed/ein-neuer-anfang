@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ein neuer Anfang
+
+This log tracks the cryptographic history and versioning for the song **Ein neuer Anfang** (ein-neuer-anfang).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:14:18.133471 | `v1` | `8c72b4574ef583acb8486fbfcee47c55eb8ca58666c06fcab7655e4e00e1c08d` | `68206bf1485ddfe309cc079147e608e27448b5e33cc0470d5243b5160fd85e38` | `2026-06-28_ein-neuer-anfang-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

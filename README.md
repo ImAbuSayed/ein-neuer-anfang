@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-neuer-anfang/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ein neuer Anfang](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-neuer-anfang/) |
+| **Get License** | [Secure Licensing Rights for Ein neuer Anfang](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-neuer-anfang/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8c72b4574ef583acb8486fbfcee47c55eb8ca58666c06fcab7655e4e00e1c08d` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
